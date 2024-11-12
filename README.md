@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @edsaja18 or gabo, lalo, gabs or whatever you want to call me
+- 👀 I’m interested in web develovepnt...
+- 🌱 I’m currently learning Frameworks like Angular and React ...
+- ⚡ Fun fact: I did a website called evermore heart and it was so awesome!
+   
+
